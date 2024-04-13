@@ -3,7 +3,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xerlokt&layout=compact&theme=radical)
 
-![snake gif](https://github.com/Xerlokt/Xerlokt/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Xerlokt/Xerlokt/blob/output/github-contribution-grid-snake.gif)
 
 
 ## Tecnologias
