@@ -1,10 +1,17 @@
 ## Olá! Eu sou o Gian Carlo Coelho 😉  
+<br>
+
 ![Xerlokt GitHub stats](https://github-readme-stats.vercel.app/api?username=Xerlokt&show_icons=true&theme=radical)
+
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xerlokt&layout=compact&theme=radical)
 
 
 ## Tecnologias
+
+<br>
+
 <div align="center">
   <h2>Front-end</h2>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
