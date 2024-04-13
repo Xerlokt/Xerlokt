@@ -1,5 +1,6 @@
 ## Olá! Eu sou o Gian Carlo Coelho 😉  
 ![Xerlokt GitHub stats](https://github-readme-stats.vercel.app/api?username=Xerlokt&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xerlokt&layout=compact&theme=radical)
 
 ![snake gif](https://github.com/Xerlokt/Xerlokt/blob/output/github-contribution-grid-snake.svg)
