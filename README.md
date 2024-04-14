@@ -5,6 +5,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xerlokt&layout=compact&theme=radical&locale=pt-br" alt="Top Langs" width="40%">
 
 
+## Tecnologias:
+
 <div align="center">
   <h2>Front-end</h2>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
