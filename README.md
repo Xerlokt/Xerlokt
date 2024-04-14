@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Gian Carlo Coelho 😉  
 <br>
 
-![Xerlokt GitHub stats](https://github-readme-stats.vercel.app/api?username=Xerlokt&show_icons=true&theme=radical&locale=pt-br)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xerlokt&layout=compact&theme=radical&locale=pt-br" alt="Top Langs" width="40%">
-
-<br>
+<div>
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=Xerlokt&show_icons=true&theme=radical&locale=pt-br"  width="40%" alt="Top Langs">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xerlokt&layout=compact&theme=radical&locale=pt-br" alt="Top Langs">
+</div></br>
 
 ### Desenvolvimento de Software Multiplataforma - Fatec de Itatiba (3/6)
 
