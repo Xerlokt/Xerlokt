@@ -1,4 +1,12 @@
-## Olá! Eu sou o Gian Carlo Coelho 😉  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7d12ff&textBg=false&animation=fadeIn"/>
+
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00B4&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1!+%F0%9F%91%8B;Eu+sou+o+Gian+Carlo+Coelho;Seja+bem+vindo+ao+meu+Github!!+%F0%9F%98%84"/>
+</div>
+
+
+<br>
 <br>
 
 <div>
