@@ -16,6 +16,16 @@
 
 ### Desenvolvimento de Software Multiplataforma - Fatec de Itatiba (3/6)
 
+
+<br>
+
+<div align="center">
+<br><p align="centre"><b>Visitors</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Xerlokt}/count.svg" /></p> 
+<br>
+</div>
+
+
 <br>
 
 ## Tecnologias:
