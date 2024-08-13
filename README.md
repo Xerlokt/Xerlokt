@@ -14,16 +14,11 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xerlokt&layout=compact&theme=radical&locale=pt-br" width="42.5%" alt="Top Langs">
 </div></br>
 
-### Desenvolvimento de Software Multiplataforma - Fatec de Itatiba (3/6)
+### Desenvolvimento de Software Multiplataforma - Fatec de Itatiba (4/6)
 
 
 <br>
 
-<div align="center">
-<br><p align="centre"><b>Visitors</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Xerlokt}/count.svg" /></p> 
-<br>
-</div>
 
 
 <br>
