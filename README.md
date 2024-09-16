@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00B4&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1!+%F0%9F%91%8B;Eu+sou+o+Gian+Carlo+Coelho;Seja+bem+vindo+ao+meu+Github!!+%F0%9F%98%84"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00B4&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1!+%F0%9F%91%8B;Eu+sou+o+Gian+Carlo+Coelho;Seja+bem-vindo+ao+meu+Github!!+%F0%9F%98%84"/>
 </div>
 
 
