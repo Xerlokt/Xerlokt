@@ -60,13 +60,6 @@
           
 </div>
 
-<div align="center">
-  <h2>Mobile</h2>
-            <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-          
-</div>
-
-
 </br>
 
 ## Contatos
