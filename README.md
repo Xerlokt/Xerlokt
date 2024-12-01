@@ -14,7 +14,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xerlokt&layout=compact&theme=radical&locale=pt-br" width="42.5%" alt="Top Langs">
 </div></br>
 
-### Desenvolvimento de Software Multiplataforma - Fatec de Itatiba (4/6)
+### Desenvolvimento de Software Multiplataforma - Fatec de Itatiba (5/6)
 
 
 <br>
@@ -39,8 +39,10 @@
   <h2>Back-end</h2>
             <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
             <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+            <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
             <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
             <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+            
 </div>
   
 <br>
@@ -58,6 +60,12 @@
             <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
             <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
           
+</div>
+<div align="center">
+  <h2>Ferramentas</h2>
+            <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+            <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+            
 </div>
 
 </br>
