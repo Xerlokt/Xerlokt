@@ -17,7 +17,7 @@
 <br>
 
 <!-- Formação -->
-### Desenvolvimento de Software Multiplataforma - Fatec de Itatiba (5/6)
+### Desenvolvimento de Software Multiplataforma - Fatec de Itatiba (6/6)
 
 <br><br>
 
