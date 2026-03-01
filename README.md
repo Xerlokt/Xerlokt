@@ -8,13 +8,6 @@
 
 <br><br>
 
-<!-- Estatísticas GitHub -->
-<div>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Xerlokt&show_icons=true&theme=radical&locale=pt-br" width="46%" alt="GitHub Stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xerlokt&layout=compact&theme=radical&locale=pt-br" width="42.5%" alt="Top Langs">
-</div>
-
-<br>
 
 <!-- Formação -->
 ### Desenvolvimento de Software Multiplataforma - Fatec de Itatiba (6/6)
