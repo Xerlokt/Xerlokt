@@ -162,6 +162,8 @@ IoT Integration
   src="https://github-stats-extended.vercel.app/api?username=Xerlokt&theme=midnight-purple&show_icons=true&hide_border=true"
 />
 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Xerlokt&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
 </div>
 
 ---
